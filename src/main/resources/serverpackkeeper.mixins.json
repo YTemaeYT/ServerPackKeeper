@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "dev.ytemaeyt.serverpackkeeper.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ServerResourcePackLoaderMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
